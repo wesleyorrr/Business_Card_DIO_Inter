@@ -10,3 +10,5 @@
 - [x] [ViewBinding](https://developer.android.com/topic/libraries/view-binding)
 - [x] [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=pt-br)
 - [x] [ListAdapter](https://medium.com/android-dev-br/como-criar-um-listadapter-usando-kotlin-1f2259840ebc)
+
+<img src="https://github.com/wesleyorrr/Business_Card_DIO_Inter/blob/master/um.jpg" height="425" />
